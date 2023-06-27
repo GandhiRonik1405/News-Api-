@@ -1,0 +1,17 @@
+.card{
+    color: #2F3C7E;
+background-color: white;
+}
+.card-box:hover{
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+}
+.position-absolute{
+    color: #FBEAEB;
+    background-color: #2F3C7E;
+}
+.btn{
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+}
+
